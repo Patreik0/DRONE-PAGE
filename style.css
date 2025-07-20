@@ -109,7 +109,7 @@ body {
 
 .picture {
     width: 40%;
-    height: auto;  /* Pozwól obrazkom dopasować wysokość */
+    height: auto;  
     display: flex;
     justify-content: center;
     align-items: center;
@@ -134,7 +134,6 @@ body {
 
 
 
-/* Responsywność */
 @media (max-width: 900px) {
     .kafelek {
         width: 100%;
